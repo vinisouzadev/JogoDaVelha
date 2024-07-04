@@ -7,7 +7,7 @@ public class Program
     static void Main(string[] args)
     {   
         
-        var tabuleiro = new Tabuleiro();
+        var tabuleiro = new Tabuleiro(); // instancia o tabuleiro
         tabuleiro.IniciarJogo();
         
     }

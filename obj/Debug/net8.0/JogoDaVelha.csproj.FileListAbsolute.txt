@@ -26,3 +26,4 @@ C:\Users\dev_estagio\Desktop\JogoDaVelha\obj\Debug\net8.0\refint\JogoDaVelha.dll
 C:\Users\dev_estagio\Desktop\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
 C:\Users\dev_estagio\Desktop\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
 C:\Users\dev_estagio\Desktop\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll
+C:\Users\dev_estagio\Desktop\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.sourcelink.json
